@@ -9,9 +9,7 @@ def main():
         num2 = int(input("introdueix segon valor"))
     for i in range(num1, num2+1, 1):
         print(i)
-    print("hello")
-
-
+    print("asdadsa")
 
 if __name__ == '__main__':
     main()
